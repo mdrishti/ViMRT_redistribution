@@ -1,8 +1,8 @@
-#### Purpose of this GitHub repo
+## Purpose of this GitHub repo
 
 This is a redistribution of ViMRT software. The original implementation provided by the authors is here: http://bmtongji.cn:1225/mutation/download/?file_name=ViMRT.zip . This git repo is for playing around with code and repurpose for personal projects only. 
 
-
+The readme contents below is from te original readme file provided by the authors.
 
 
 ######   Using ViMRT
@@ -11,8 +11,13 @@ ViMRT is a text-mining tool and search engine for automated virus mutation recog
 #### Getting Started with ViMRT
 System Python
 1.Installing Python
+
+
+```bash
 conda create --name py3.8 python=3.8
 conda activate py3.8
+```
+
 
 2.Installing python package
 
