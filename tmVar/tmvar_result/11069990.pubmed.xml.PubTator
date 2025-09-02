@@ -1,0 +1,26 @@
+11069990|title|Relative replication fitness of a high-level 3'-azido-3'-deoxythymidine-resistant variant of human immunodeficiency virus type 1 possessing an amino acid deletion at codon 67 and a novel substitution (Thr-->Gly) at codon 69.
+11069990|abstract|The combination of an amino acid deletion at codon 67 (delta 67) and Thr-to-Gly change at codon 69 (T69G) in the reverse transcriptase (RT) of human immunodeficiency virus type 1 (HIV-1) is associated with high-level resistance to multiple RT inhibitors. To determine the relative contributions of the delta 67 and T69G mutations on viral fitness, we performed a series of studies of HIV replication using recombinant variants. A high-level 3'-azido-3'-deoxythymidine (AZT)-resistant variant containing delta 67 plus T69G/K70R/L74I/K103N/T215F/K219Q in RT replicated as efficiently as wild-type virus (Wt). In contrast, the construct without delta 67 exhibited impaired replication (23% of growth of Wt). A competitive fitness study failed to reveal any differences in replication rates between the delta 67+T69G/K70R/L74I/K103N/T215F/+ ++K219Q mutant and Wt. Evaluation of proviral DNA sequences over a 3-year period in a patient harboring the multiresistant HIV revealed that the T69G mutation emerged in the context of a D67N/K70R/T215F/K219Q mutant backbone prior to appearance of the delta 67 deletion. To assess the impact of this stepwise accumulation of mutations on viral replication, a series of recombinant variants was constructed and analyzed for replication competence. The T69G mutation was found to confer 2',3'-dideoxyinosine resistance at the expense of fitness. Subsequently, the development of the delta 67 deletion led to a virus with improved replication and high-level AZT resistance.
+11069990	280	288	delta 67	DNAMutation	|DEL||67
+11069990	325	329	T69G	DNAMutation	c|SUB|T|69|G
+11069990	540	544	T69G	DNAMutation	c|SUB|T|69|G
+11069990	742	748	T69G/K	DNAMutation	|SUB|T|69|G,K
+11069990	747	753	K70R/L	ProteinMutation	p|SUB|K|70|R,L
+11069990	752	758	L74I/K	ProteinMutation	p|SUB|L|74|I,K
+11069990	757	764	K103N/T	ProteinMutation	p|SUB|K|103|N,T
+11069990	763	770	T215F/K	ProteinMutation	|SUB|T|215|F,K
+11069990	769	774	K219Q	ProteinMutation	p|SUB|K|219|Q
+11069990	1033	1039	T69G/K	DNAMutation	|SUB|T|69|G,K
+11069990	1038	1044	K70R/L	ProteinMutation	p|SUB|K|70|R,L
+11069990	1043	1049	L74I/K	ProteinMutation	p|SUB|L|74|I,K
+11069990	1048	1055	K103N/T	ProteinMutation	p|SUB|K|103|N,T
+11069990	1054	1059	T215F	ProteinMutation	p|SUB|T|215|F
+11069990	1064	1069	K219Q	ProteinMutation	p|SUB|K|219|Q
+11069990	1207	1211	T69G	DNAMutation	c|SUB|T|69|G
+11069990	1249	1255	D67N/K	ProteinMutation	p|SUB|D|67|N,K
+11069990	1254	1260	K70R/T	ProteinMutation	p|SUB|K|70|R,T
+11069990	1259	1266	T215F/K	ProteinMutation	|SUB|T|215|F,K
+11069990	1265	1270	K219Q	ProteinMutation	p|SUB|K|219|Q
+11069990	1513	1517	T69G	DNAMutation	c|SUB|T|69|G
+11069990	294	323	Thr-to-Gly change at codon 69	ProteinMutation	p|SUB|T|69|G
+11069990	201	223	Thr-->Gly) at codon 69	ProteinMutation	p|SUB|T|69|G
+

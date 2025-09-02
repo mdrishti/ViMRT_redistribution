@@ -1,0 +1,22 @@
+10196268|title|Replicative fitness of protease inhibitor-resistant mutants of human immunodeficiency virus type 1.
+10196268|abstract|The relative replicative fitness of human immunodeficiency virus type 1 (HIV-1) mutants selected by different protease inhibitors (PIs) in vivo was determined. Each mutant was compared to wild type (WT), NL4-3, in the absence of drugs by several methods, including clonal genotyping of cultures infected with two competing viral variants, kinetics of viral antigen production, and viral infectivity/virion particle ratios. A nelfinavir-selected protease D30N substitution substantially decreased replicative capacity relative to WT, while a saquinavir-selected L90M substitution moderately decreased fitness. The D30N mutant virus was also outcompeted by the L90M mutant in the absence of drugs. A major natural polymorphism of the HIV-1 protease, L63P, compensated well for the impairment of fitness caused by L90M but only slightly improved the fitness of D30N. Multiply substituted indinavir-selected mutants M46I/L63P/V82T/I84V and L10R/M46I/L63P/V82T/I84V were just as fit as WT. These results indicate that the mutations which are usually initially selected by nelfinavir and saquinavir, D30N and L90M, respectively, impair fitness. However, additional mutations may improve the replicative capacity of these and other drug-resistant mutants. Hypotheses based on the greater fitness impairment of the nelfinavir-selected D30N mutant are suggested to explain observations that prolonged responses to delayed salvage regimens, including alternate PIs, may be relatively common after nelfinavir failure.
+10196268	554	558	D30N	ProteinMutation	p|SUB|D|30|N
+10196268	661	665	L90M	ProteinMutation	p|SUB|L|90|M
+10196268	713	717	D30N	ProteinMutation	p|SUB|D|30|N
+10196268	759	763	L90M	ProteinMutation	p|SUB|L|90|M
+10196268	848	852	L63P	ProteinMutation	p|SUB|L|63|P
+10196268	911	915	L90M	ProteinMutation	p|SUB|L|90|M
+10196268	958	962	D30N	ProteinMutation	p|SUB|D|30|N
+10196268	1012	1018	M46I/L	ProteinMutation	p|SUB|M|46|I,L
+10196268	1017	1023	L63P/V	ProteinMutation	p|SUB|L|63|P,V
+10196268	1022	1028	V82T/I	ProteinMutation	p|SUB|V|82|T,I
+10196268	1027	1031	I84V	ProteinMutation	p|SUB|I|84|V
+10196268	1036	1042	L10R/M	ProteinMutation	p|SUB|L|10|R,M
+10196268	1041	1047	M46I/L	ProteinMutation	p|SUB|M|46|I,L
+10196268	1046	1052	L63P/V	ProteinMutation	p|SUB|L|63|P,V
+10196268	1051	1057	V82T/I	ProteinMutation	p|SUB|V|82|T,I
+10196268	1056	1060	I84V	ProteinMutation	p|SUB|I|84|V
+10196268	1194	1198	D30N	ProteinMutation	p|SUB|D|30|N
+10196268	1203	1207	L90M	ProteinMutation	p|SUB|L|90|M
+10196268	1427	1431	D30N	ProteinMutation	p|SUB|D|30|N
+
