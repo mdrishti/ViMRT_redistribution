@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+json==2.0.9
+requests==2.22.0
+pandas==1.1.5
+BeautifulSoup==4.11.1
+nltk==3.6.2
+openpyxl==3.0.10
