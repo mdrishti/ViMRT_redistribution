@@ -1,0 +1,35 @@
+10196268|pmid|The D30N mutant virus was also outcompeted by the L90M mutant in the absence of drugs.
+10196268|pmid|A nelfinavir-selected protease D30N substitution substantially decreased replicative capacity relative to WT, while a saquinavir-selected L90M substitution moderately decreased fitness.
+10196268|pmid|Multiply substituted indinavir-selected mutants M46I/L63P/V82T/I84V and L10R/M46I/L63P/V82T/I84V were just as fit as WT.
+10196268|pmid|A major natural polymorphism of the HIV-1 protease, L63P, compensated well for the impairment of fitness caused by L90M but only slightly improved the fitness of D30N.
+10196268|pmid|Hypotheses based on the greater fitness impairment of the nelfinavir-selected D30N mutant are suggested to explain observations that prolonged responses to delayed salvage regimens, including alternate PIs, may be relatively common after nelfinavir failure.
+10196268|pmid|These results indicate that the mutations which are usually initially selected by nelfinavir and saquinavir, D30N and L90M, respectively, impair fitness.
+10209951|pmid|The CTL motif was conserved in all but 2 cases (C426-->S).
+10209951|pmid|The B95.8 prototype was found in 17% (13/76) of cases, while in 72% a variant with 3 point mutations (166796 C-->A, 166805 C-->A, 166810 C-->T) was detected; 11% had 1 or 2 of these mutations in addition to G-->A at 166793.
+10567539|pmid|Point mutations at Tax amino acid 318 (TaxS318A) or 319 to 320 (Tax M47), which have decreased or no activity on the HTLV-1 promoter, are defective for PCAF binding.
+11069990|pmid|The T69G mutation was found to confer 2',3'-dideoxyinosine resistance at the expense of fitness.
+11069990|pmid|Subsequently, the development of the delta 67 deletion led to a virus with improved replication and high-level AZT resistance.
+11069990|pmid|To determine the relative contributions of the delta 67 and T69G mutations on viral fitness, we performed a series of studies of HIV replication using recombinant variants.
+11069990|pmid|The combination of an amino acid deletion at codon 67 (delta 67) and Thr-to-Gly change at codon 69 (T69G) in the reverse transcriptase (RT) of human immunodeficiency virus type 1 (HIV-1) is associated with high-level resistance to multiple RT inhibitors.
+11069990|pmid|A high-level 3'-azido-3'-deoxythymidine (AZT)-resistant variant containing delta 67 plus T69G/K70R/L74I/K103N/T215F/K219Q in RT replicated as efficiently as wild-type virus (Wt).
+11069990|pmid|A competitive fitness study failed to reveal any differences in replication rates between the delta 67+T69G/K70R/L74I/K103N/T215F/+ ++K219Q mutant and Wt.
+11069990|pmid|Evaluation of proviral DNA sequences over a 3-year period in a patient harboring the multiresistant HIV revealed that the T69G mutation emerged in the context of a D67N/K70R/T215F/K219Q mutant backbone prior to appearance of the delta 67 deletion.
+11069990|pmid|Relative replication fitness of a high-level 3'-azido-3'-deoxythymidine-resistant variant of human immunodeficiency virus type 1 possessing an amino acid deletion at codon 67 and a novel substitution (Thr-->Gly) at codon 69.
+11308254|pmid|No relationship was found between the E6 350T-G variant, or the E2 hinge region 3410C-T variant, and lesion grade.
+11308254|pmid|Isolates were also analysed for the HPV 16 350T-G variant.
+11308254|pmid|However, disruption of the regions of E2 analysed was significantly more frequent in high-grade lesions, and there was a significant association between the 3684C-A variant in the E2 DNA binding domain and high-grade histology suggesting that this variant may be important in progression to high-grade intraepithelial disease.
+11353856|pmid|The A protease used in these studies differs in seven positions (I13V/E35D/M36I/R41K/R57K/H69K/L89M) in relation to the consensus B subtype protease.
+11353856|pmid|Another protease containing a subset of these amino acid polymorphisms (M36I/R41K/H69K/L89M), which are found in subtype C and other HIV subtypes, also was studied.
+22348267|pmid|Three variations (g48991t, c48998a, t49613a) were detected in all of the samples (113/113, 100%).
+22348267|pmid|Variation analysis in EBNA-2 functional domains: the TAD residue (I438L) and the NLS residues (E476G, P484H and I486T) were only detected in NPC samples which located in the carboxyl terminus of EBNA-2 gene.
+32564557|pmid|Rates of A1762T/G1764A double mutations were significantly different between the intrauterine transmission group and the control group (7.53% vs.
+32564557|pmid|Maternal A1762T/G1764A double mutations appeared to be possibly associated with neonatal HBeAg (P=0.050).
+32564557|pmid|Conclusion: A1762T/G1764A double mutations of HBV DNA from the genotype C of those HBsAg-positive mothers could reduced the risk of HBV intrauterine transmission during pregnancy.
+32564557|pmid|Results from the multivariate analysis showed that the A1762T/G1764A double mutations had reduced the risk of intrauterine transmission (aOR=0.065, 95%CI: 0.006-0.746, P=0.028).
+32994690|pmid|sA159V might increase the fitness of LAM/ETV-resistant mutants under environmental pressure in some cases.
+32994690|pmid|Among these, sA159V was detected in 1.95% (136/6982) of patients with resistance mutations and 1.08% (134/12,458) of patients lacking resistance mutations (P < 0.05).
+32994690|pmid|The coexistence of sA159V with lamivudine (LAM) and entecavir (ETV)-resistance mutations in the same viral genome was identified during follow-up in some patients with drug resistance.
+32994690|pmid|In particular, these mutations were sQ101H/K/R, sS114A/L/T, sT118A/K/M/R/S/V, sP120A/L/Q/S/T, sT/I126A/N/P/S, sM133I/L/T, sC137W/Y, sG145A/R, and sA159G/V.
+32994690|pmid|HBsAg production was significantly lower and the replication capacity was significantly higher, without a significant difference in LAM/ETV susceptibility, in sA159V-containing LAM/ETV-resistant mutants than in their sA159V-lacking counterparts.
+32994690|pmid|Phenotypic analyses were performed to evaluate HBsAg production, replication capacity, and drug-induced viral inhibition of patient-derived drug-resistant mutants with or without the coexistence of sA159V.
+35223517|pmid|Wild-type HBx (WT-HBx) and four HBx mutants (M1, A1762T/G1764A; M2, T1674G+T1753C+A1762T/G1764A; M3, C1653T+T1674G+A1762T/G1764A; and Ct-HBx, carboxylic acid-terminal truncated HBx) were delivered into Sleeping Beauty (SB) mouse models.
