@@ -2,8 +2,9 @@
 
 This is a redistribution of ViMRT software. The original implementation provided by the authors is here: http://bmtongji.cn:1225/mutation/download/?file_name=ViMRT.zip . This git repo is for playing around with code and repurpose for personal projects only. 
 
-The readme contents below is from te original readme file provided by the authors.
+The readme contents below is from the original readme file provided by the authors.
 
+---------------------------------------------------------------------------------------------------------
 
 ######   Using ViMRT
 ViMRT is a text-mining tool and search engine for automated virus mutation recognition by rule patterns and regular expression patterns for different written forms of virus mutation based on natural language processing. It can also quickly and accurately search virus mutation-related information including virus genes and related diseases.
